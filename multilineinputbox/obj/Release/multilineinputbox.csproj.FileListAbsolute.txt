@@ -1,0 +1,6 @@
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\multilineinputbox\multilineinputbox\bin\Release\multilineinputbox.exe.config
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\multilineinputbox\multilineinputbox\bin\Release\multilineinputbox.exe
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\multilineinputbox\multilineinputbox\obj\Release\multilineinputbox.csprojResolveAssemblyReference.cache
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\multilineinputbox\multilineinputbox\obj\Release\multilineinputbox.MainForm.resources
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\multilineinputbox\multilineinputbox\obj\Release\multilineinputbox.csproj.GenerateResource.Cache
+D:\Dropbox\המסמכים שלי\SharpDevelop Projects\multilineinputbox\multilineinputbox\obj\Release\multilineinputbox.exe
